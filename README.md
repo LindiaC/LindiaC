@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=LindiaC&show_icons=true&theme=jolly&count_private=true" alt="LindiaC's GitHub Stats">   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindiaC&theme=jolly&count_private=true&layout=compact" alt="Most Used Languages">
 
 #### Coding Fantasies
-[ChatGLM2-With-Rua-Tutorial](https://github.com/LindiaC/ChatGLM2-With-Rua-Tutorial) ![stars](https://img.shields.io/github/stars/LindiaC/ChatGLM2-With-Rua-Tutorial) 
-
+⭐ [ChatGLM2-With-Rua-Tutorial](https://github.com/LindiaC/ChatGLM2-With-Rua-Tutorial) ![stars](https://img.shields.io/github/stars/LindiaC/ChatGLM2-With-Rua-Tutorial) 
+→ A story can be discovered in Chinese [here]().
 
 
 
