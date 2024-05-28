@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 #### Course Related
 
-💻 [(part of) SJTU ACMOJ Solution](https://github.com/LindiaC/SJTU-ACMOJ) ![stars](https://img.shields.io/github/starsLindiaC/SJTU-ACMOJ) 
+💻 [(part of) SJTU ACMOJ Solution](https://github.com/LindiaC/SJTU-ACMOJ) ![stars](https://img.shields.io/github/stars/LindiaC/SJTU-ACMOJ) 
 
 
 
