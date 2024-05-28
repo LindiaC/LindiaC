@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ↑ A story can be discovered in Chinese [here](https://mp.weixin.qq.com/s/g4B9P06OwhjOJph2O84viQ).
 
-#### Helpers
+#### Sweet Helpers
 
 ✊ [Chinese-solution-to-obsidian-kindle-plugin](https://github.com/LindiaC/Chinese-solution-to-obsidian-kindle-plugin) ![stars](https://img.shields.io/github/stars/LindiaC/Chinese-solution-to-obsidian-kindle-plugin) 
 
