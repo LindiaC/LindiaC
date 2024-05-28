@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 
 #### Coding Fantasies
 
-🪄 [ChatGLM2-With-Rua-Tutorial](https://github.com/LindiaC/ChatGLM2-With-Rua-Tutorial) ![stars](https://img.shields.io/github/stars/LindiaC/ChatGLM2-With-Rua-Tutorial) 
+🪄 [ChatGLM2-With-Rua-Tutorial](https://github.com/LindiaC/ChatGLM2-With-Rua-Tutorial)  ![stars](https://img.shields.io/github/stars/LindiaC/ChatGLM2-With-Rua-Tutorial) 
 
 ↑ A story can be discovered in Chinese [here](https://mp.weixin.qq.com/s/g4B9P06OwhjOJph2O84viQ).
 
 #### Sweet Helpers
 
-✊ [Chinese-solution-to-obsidian-kindle-plugin](https://github.com/LindiaC/Chinese-solution-to-obsidian-kindle-plugin) ![stars](https://img.shields.io/github/stars/LindiaC/Chinese-solution-to-obsidian-kindle-plugin) 
+✊ [Chinese-solution-to-obsidian-kindle-plugin](https://github.com/LindiaC/Chinese-solution-to-obsidian-kindle-plugin)  ![stars](https://img.shields.io/github/stars/LindiaC/Chinese-solution-to-obsidian-kindle-plugin) 
 
 
 #### Course Related
 
-💻 [(part of) SJTU ACMOJ Solution](https://github.com/LindiaC/SJTU-ACMOJ) ![stars](https://img.shields.io/github/stars/LindiaC/SJTU-ACMOJ) 
+💻 [(part of) SJTU ACMOJ Solution](https://github.com/LindiaC/SJTU-ACMOJ)  ![stars](https://img.shields.io/github/stars/LindiaC/SJTU-ACMOJ) 
 
 
 
